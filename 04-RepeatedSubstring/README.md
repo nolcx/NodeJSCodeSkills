@@ -16,3 +16,7 @@ What we need to do, it's to found the count of times the repeted string contains
 ## Expected Output
 
 69801196944
+
+## Official Page of the Exercise
+
+https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup

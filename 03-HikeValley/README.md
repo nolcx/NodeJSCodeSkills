@@ -22,3 +22,7 @@ We need to determine the number of valleys and mountains the hiker traversed.
 
 **Count of Valleys:** 1
 **Count of Mountains:** 1
+
+## Official Page of the Exercise
+
+https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup

@@ -13,7 +13,7 @@ This repository is dedicated to providing a collection of solutions to problems 
 ## Notes
 
 - Most of the exercises are taken from practice websites, and all credits related to these pages can be found in the corresponding README.md file for each exercise.
-- You may notice that there are two or more solutions for the same problem in some cases. This occurs because one solution involves manual steps (sometimes hard-coded and not following best practices)while the other adheres to good practices.
+- You may notice that there are two or more solutions for the same problem in some cases. This occurs because one solution involves manual steps (sometimes hard-coded and not following best practices) while the other adheres to good practices.
 
 ## Features
 
