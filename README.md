@@ -1,9 +1,10 @@
 # JavaScript Solutions Repository
 
-This repository is dedicated to providing various solutions to problems related to JavaScript. It includes a range of practice exercises, including those focused on Node.js, to help users prepare for technical interviews and enhance their coding skills.
+This repository is dedicated to providing a collection of solutions to problems related to JavaScript. It includes a range of practice exercises, including those focused on Node.js, to help users prepare for technical interviews and enhance their coding skills.
 
 ## Table of Contents
 
+- [Notes](#notes)
 - [Features](#features)
 - [Installation](#installation)
 - [Contributing](#contributing)
@@ -23,16 +24,28 @@ This repository is dedicated to providing various solutions to problems related 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/nolcx/NodeJSCodeSkills
+
+```bash
+git clone https://github.com/nolcx/NodeJSCodeSkills
+```
 
 2. Navigate to the project directory:
-   cd repo
+
+```bash
+ cd repo
+```
 
 3. Install dependencies (if there already a package.json, in the solution you want to see):
-   npm install
+
+```bash
+npm install
+```
 
 4. To run a specific solution, use the following command:
-   node solutionFile.js
+
+```bash
+node solutionFile.js
+```
 
 ## Contributing
 
@@ -40,4 +53,4 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ## Contact
 
-For questions or feedback, reach out at [nolan.calderon@ulatina.net].
+For questions or feedback, reach out at nolan.calderon@ulatina.net
